@@ -4,7 +4,7 @@ This repository hosts a small Node.js proxy for https://omoggle.com. It forwards
 
 ## Requirements
 
-- Node.js 20+
+- Node.js 22.15+
 
 ## Run locally
 
