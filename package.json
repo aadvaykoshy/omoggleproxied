@@ -1,0 +1,29 @@
+{
+  "name": "omoggleproxied",
+  "version": "1.0.0",
+  "description": "Proxy server for https://omoggle.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/smoke.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadvaykoshy/omoggleproxied.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.15.0 <23.0.0 || >=24.0.0 <25.0.0 || >=26.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/aadvaykoshy/omoggleproxied/issues"
+  },
+  "homepage": "https://github.com/aadvaykoshy/omoggleproxied#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "http-proxy-middleware": "^4.0.0"
+  }
+}
