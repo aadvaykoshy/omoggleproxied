@@ -16,7 +16,7 @@
   "license": "ISC",
   "type": "commonjs",
   "engines": {
-    "node": ">=22.15.0 <23.0.0 || >=24.0.0"
+    "node": ">=22.15.0 <23.0.0 || >=24.0.0 <25.0.0 || >=26.0.0"
   },
   "bugs": {
     "url": "https://github.com/aadvaykoshy/omoggleproxied/issues"
